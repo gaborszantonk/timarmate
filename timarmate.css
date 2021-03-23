@@ -1,3 +1,6 @@
 body{background-image:url(pict/moneyheist.jpg); background-repeat: no-repeat; background-position: center;background-size: cover;}
 header{width: 100%;color: red;background-color: black;}
 body{color: red;text-align: center;}
+#moneyheist {width: 33%;margin-top: 5%;background-color: orangered; float: left; }
+#gameofthrones {width: 33%;margin-top: 5%;background-color:lightblue; float: left; }
+#Narcos{width: 33%;margin-top: 5%;background-color: lightgreen; float: left; }

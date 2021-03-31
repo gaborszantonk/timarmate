@@ -6,3 +6,4 @@ for karakter in szoveg:
     else:
         ujszoveg +=karakter
 print(ujszoveg)
+print("Máté, remélem, egyedül készítetted el... Az iskolában ugyanis nem fog senki sem segíteni..\n DE: ötös")

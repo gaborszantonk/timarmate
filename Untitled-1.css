@@ -1,0 +1,5 @@
+body{background-image: url(./pict/kutja.jpg);background-size: cover;background-attachment: fixed;}
+#igen{background-color: rgb(233, 166, 118);min-height: 90vh; opacity: 0.9;}
+.nem{padding: 3px;}
+h1{text-align: center;}
+.link{display: flex; justify-content: center; padding: 3px;}
